@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+.toxic-message {
+  border-left: 3px solid #ff6b6b;
+  opacity: 0.9;
+}
+
+.toxicity-warning {
+  color: #ff6b6b;
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}
+
